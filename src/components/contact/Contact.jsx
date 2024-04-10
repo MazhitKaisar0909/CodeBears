@@ -79,7 +79,7 @@ const Contact = () => {
         </Formik>
         <StyledText>
           Or if you have any questions left <br />
-          Be sure to <a href="#">contact</a> us, we always love to hear you!
+          Be sure to <a>contact</a> us, we always love to hear you!
         </StyledText>
       </Container>
     </StyledSection>
