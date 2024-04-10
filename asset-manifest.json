@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeBears/static/css/main.7acaea2f.css",
+    "main.js": "/CodeBears/static/js/main.07d3183d.js",
+    "index.html": "/CodeBears/index.html",
+    "main.7acaea2f.css.map": "/CodeBears/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/CodeBears/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
